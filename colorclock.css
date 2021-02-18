@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-family: 'Gruppo', cursive;
+  font-size: 68px;
+  margin-top: -34px;
+  color: #ffffff;
+  border-style: solid;
+  border-radius: 5px;
+  border-color: #ffffff;
+  margin-left: 20%;
+  margin-right: 20%;
+}
